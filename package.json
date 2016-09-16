@@ -1,0 +1,21 @@
+{
+  "name": "silence",
+  "version": "1.0.0",
+  "description": "Decibel meter to check if there is too much noise in the room",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/frankdsm/silence.git"
+  },
+  "keywords": [
+    "dB",
+    "volume",
+    "meter"
+  ],
+  "author": "Frank Desmettre <frank.desmettre@gmail.com>",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/frankdsm/silence#readme"
+}
