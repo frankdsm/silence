@@ -19,10 +19,7 @@
   "license": "ISC",
   "homepage": "https://bitbucket.org/frankdsm/silence#readme",
   "dependencies": {
-    "compute-incrmmean": "^1.0.2",
-    "compute-qmean": "^1.0.0",
-    "express": "^4.14.0",
-    "pcm-boilerplate": "^0.1.1",
+    "mic": "^2.1.1",
     "play-sound": "0.0.9",
     "vu-meter": "^0.1.0"
   }
