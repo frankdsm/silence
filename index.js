@@ -22,7 +22,7 @@ micInputStream.pipe(meter)
 meter.on('data', (data) => {
   const dB = data[0];
   const gain = decibelsToGain(dB);
-  if (gain > 0.4) {
+  if (gain > 0.5) {
     playSilence();
   }
 });
@@ -38,5 +38,5 @@ function playSilence() {
   playing = true;
   setTimeout(() => {
     playing = false;
-  }, 2500);
+  }, 3200);
 }
