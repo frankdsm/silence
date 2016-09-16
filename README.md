@@ -1,4 +1,4 @@
-# SILENCE #
+# SILENCE! #
 
 Decibel meter to shut everyone down.
 
