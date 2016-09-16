@@ -1,6 +1,6 @@
-# README #
+# SILENCE #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+Decibel meter to shut everyone down.
 
 ### What is this repository for? ###
 
