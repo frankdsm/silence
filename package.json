@@ -2,7 +2,7 @@
   "name": "silence",
   "version": "1.0.0",
   "description": "Decibel meter to check if there is too much noise in the room",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
